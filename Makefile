@@ -1,2 +1,2 @@
 build:
-	gcc -o slpwm main.c
+	gcc -o slpwm main.c database.c
